@@ -1,32 +1,10 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/SP1Framework/Debug/SP1Framework.tlog
+/.vs/SP1Framework/v15
+/Debug
+/Release
+/SP1Framework/Release
+/SP1Framework/Debug
+*.user
+*.db
+.vs/SP1Framework/v14/.suo
+SP1Framework.VC.VC.opendb
